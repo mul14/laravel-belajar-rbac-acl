@@ -15,3 +15,5 @@ Jalankan web server
     php artisan serve
 
 Buka URL [http://localhost:8000](http://localhost:8000) di browser anda
+
+Username yang bisa digunakan untuk login adalah `super` dan `someone`, dengan password `secret`.
