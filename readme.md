@@ -1,5 +1,9 @@
 # Belajar RBAC/ACL di Laravel
 
+## Minimum requirement
+
+PHP 7.0
+
 ## Install
 
 Setelah clone/download, jalankan [composer](https://getcomposer.org/)
